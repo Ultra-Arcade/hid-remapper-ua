@@ -1,6 +1,7 @@
 // -----------------------------------------------------
 // NOTE: THIS HEADER IS ALSO INCLUDED BY ASSEMBLER SO
 //       SHOULD ONLY CONSIST OF PREPROCESSOR DIRECTIVES
+//                 FOR KEYBOARD CONVERTER
 // -----------------------------------------------------
 
 #ifndef _BOARDS_WAVESHARE_RP2040_PIZERO_H
